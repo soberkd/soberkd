@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **soberkd/soberkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @soberkd 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Soon
--->
+
