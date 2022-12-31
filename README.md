@@ -1,13 +1,13 @@
-<h1 align="center">Hi í±‹, I'm Dennis Maritim</h1>
+<h1 align="center">Hi ðŸ‘‹, I'm Dennis Maritim</h1>
 <h3 align="center">A passionate full Stack engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soberkd&label=Profile%20views&color=0e75b6&style=flat" alt="soberkd" /> </p>
 
-- í¼± Iâ€™m currently learning **typescript**
+- ðŸŒ± Iâ€™m currently learning **typescript**
 
-- í±¯ Iâ€™m looking to collaborate on **in any full stack app**
+- ðŸ‘¯ Iâ€™m looking to collaborate on **in any full stack app**
 
-- í³« How to reach me **http://twitter.com/soberkd**
+- ðŸ“« How to reach me **http://twitter.com/soberkd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
