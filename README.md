@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **in any full stack app**
 
-- 📫 How to reach me **http://twitter.com/soberkd**
+- 📫 How to reach me **https://twitter.com/soberkd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
